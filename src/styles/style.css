@@ -1,0 +1,31 @@
+/* Breakpoints source: https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862 */
+
+/* Mobile only */
+/* Most of the general styles go here because the app is built mobile-first */
+@media only screen and (max-width: 599px) {
+	body {
+		font-family: 'Roboto', sans-serif;
+		color: #f4f4f4;
+		background-color: #4ECDC4;
+	}
+}
+
+/* Tablet portrait and phone landscape*/
+@media only screen and (min-width: 600px) {
+    
+}
+
+/* Tablet landscape */
+@media only screen and (min-width: 900px) {
+    
+}
+
+/* Desktop */
+@media only screen and (min-width: 1200px) {
+    
+}
+
+/* Big displays & TV */
+@media only screen and (min-width: 1800px) {
+    
+}
